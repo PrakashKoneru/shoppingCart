@@ -13,7 +13,7 @@ class Header extends Component {
         <nav className="Header">
           <div className="Title">
             <Link to="/">
-              <h1>Shopify</h1>
+              <h1>Shopping Cart</h1>
             </Link>
           </div>
           <div className="MenuList">
